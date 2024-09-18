@@ -97,7 +97,7 @@ numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 soma_total = 0
 
 for i in numeros:
-    soma =  i ** i
+    soma =  i ** 2
 
     soma_total += soma
 print(soma_total)
